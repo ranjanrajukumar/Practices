@@ -27,12 +27,13 @@ Each middleware component can:
 
 🎯 How Middleware Executes (Order Matters)
 
+
 Example pipeline:
 
-app.UseHttpsRedirection();
-app.UseAuthentication();
-app.UseAuthorization();
-app.MapControllers();
+app.UseHttpsRedirection(); 
+app.UseAuthentication(); 
+app.UseAuthorization(); 
+app.MapControllers(); 
 
 
 📌 If you place UseAuthorization() before UseAuthentication() → Authorization will fail because no user is authenticated.

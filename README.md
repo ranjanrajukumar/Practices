@@ -1,8 +1,4 @@
-========================
-
-1. C# & OOP – Advanced
-
-========================
+# C# & OOP – Advanced
 
 Difference between IEnumerable, IQueryable, ICollection, and List.
 
@@ -24,11 +20,8 @@ Difference between abstract class and interface.
 
 Explain SOLID principles.
 
-==============================
+# ASP.NET Core – Backend
 
-2. ASP.NET Core – Backend
-
-==============================
 11. Explain ASP.NET Core request pipeline and middleware.
 12. Difference between AddScoped, AddTransient, AddSingleton.
 13. Authentication vs Authorization.
@@ -40,11 +33,7 @@ Explain SOLID principles.
 19. What is API versioning?
 20. How to implement global exception handling?
 
-================================
-
-3. Entity Framework Core
-
-================================
+# Entity Framework Core
 21. Difference between DbContext and DbSet.
 22. What is Change Tracker?
 23. What are EF Core migrations? How to rollback?
@@ -56,11 +45,7 @@ Explain SOLID principles.
 29. What is concurrency token?
 30. How to implement soft delete?
 
-===============================
-
-4. SQL Server – Concepts
-
-===============================
+# SQL Server – Concepts
 31. Difference between INNER, LEFT, and RIGHT JOIN.
 32. What is ROW_NUMBER()?
 33. Clustered vs Non-clustered index.
@@ -72,11 +57,7 @@ Explain SOLID principles.
 39. Difference between DELETE and TRUNCATE.
 40. What is an execution plan?
 
-==================================
-
-5. Microservices + RabbitMQ
-
-==================================
+# Microservices + RabbitMQ
 41. Why microservices over monolithic architecture?
 42. What is API Gateway?
 43. Synchronous vs asynchronous communication.
@@ -88,11 +69,8 @@ Explain SOLID principles.
 49. What is circuit breaker pattern?
 50. Why Docker? Benefits of containerization.
 
-============================
 
-6. React + JavaScript
-
-============================
+# React + JavaScript
 51. What is Virtual DOM in React?
 52. Difference between useEffect and useLayoutEffect.
 53. Controlled vs uncontrolled components.
@@ -103,12 +81,8 @@ Explain SOLID principles.
 58. What is CORS?
 59. Debouncing vs throttling.
 60. Explain closures in JavaScript.
-
-====================
-
-7. System Design
-
-====================
+  
+# System Design
 61. Design a Login System using JWT.
 62. Design a scalable file upload API.
 63. Design a Notification Service using RabbitMQ.
